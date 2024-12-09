@@ -36,8 +36,8 @@ project-root/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <URL вашего репозитория>
-   cd project-root
+   git clone https://github.com/Annabse27/n_element.git
+   cd n_element
    ```
 
 2. **Установите Poetry (если ещё не установлен):**
